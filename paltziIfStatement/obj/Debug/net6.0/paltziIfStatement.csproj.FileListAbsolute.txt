@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\bin\Debug\net6.0\paltziIfStatement.exe
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\bin\Debug\net6.0\paltziIfStatement.deps.json
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\bin\Debug\net6.0\paltziIfStatement.runtimeconfig.json
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\bin\Debug\net6.0\paltziIfStatement.dll
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\bin\Debug\net6.0\paltziIfStatement.pdb
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.dll
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\refint\paltziIfStatement.dll
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.pdb
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\paltziIfStatement.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\paltziIfStatement\paltziIfStatement\obj\Debug\net6.0\ref\paltziIfStatement.dll
